@@ -9,4 +9,4 @@ class Cat: Animal() {
     fun scratch (){
         Log.d("kotlin_lesson_2", "This cat scratchs")
     }
-}git
+}
